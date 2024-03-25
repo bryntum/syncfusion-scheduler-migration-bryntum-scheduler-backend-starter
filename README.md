@@ -135,7 +135,7 @@ Create a `.env` file in the root folder and add the following lines for connecti
 ```
 HOST=localhost
 PORT=1338
-USER=root
+DB_USER=root
 PASSWORD=
 DATABASE=syncfusion_scheduler
 FRONTEND_URL="http://localhost:4000"
